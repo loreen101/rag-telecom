@@ -132,7 +132,7 @@ def save_to_cache(self):
 
 ---
 
-## 🎓 How It Works
+## How It Works
 
 ### Query Flow:
 ```

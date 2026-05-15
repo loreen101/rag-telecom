@@ -157,7 +157,7 @@ Route Query (4-category classification)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 telecom-rag-assistant/
